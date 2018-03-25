@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ReStop</string>
+
+    <string name="category_staromestska">Staroměstská</string>
+
+    <string name="category_modrany">Tramvajová linka 17 - Sídliště Modřany</string>
+
+    <string name="category_podbaba">Tramvajová linka 18 - Nádraží Podbaba</string>
+
+    <string name="category_branik">Tramvajová linka 2 -Braník</string>
+
+
+</resources>

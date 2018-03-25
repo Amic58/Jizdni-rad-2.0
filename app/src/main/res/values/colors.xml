@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_color">#000000</color>
+
+    <color name="primary_dark_color">#2F1D1A</color>
+
+    <color name="background">#F5F5F5</color>
+
+    <color name="category_staromestska">#F44336</color>
+
+    <color name="category_modrany">#EEEEEE</color>
+
+    <color name="category_podbaba">#E0E0E0</color>
+
+    <color name="category_branik">#EEEEEE</color>
+
+</resources>
