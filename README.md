@@ -2,7 +2,7 @@
 
 Projekt na platformě Android, který zobrazuje jednu danou stanici, a časy příjezdu tramvajových linek do stanice.
 
-Vypracované v rámci ročníkové práce na programování na GYARAB.
+Vypracované v rámci ročníkové práce na programování na GYARAB v roce 2018.
 
 - Artem Bryksa
 
