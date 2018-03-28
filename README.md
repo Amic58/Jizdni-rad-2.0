@@ -1,4 +1,10 @@
-# Re-Stop
+# Jízdní řád 2.0
+
+## Cíl
+
+Tento projekt si klade za cíl vytvořit nový vzhled nejdůležitějšího prvku současných autobusových a tramvajových zastávek v centru Prahy, a to konkrétně jízdních řádů. Nové jízdní řády, fungující na fixovaných obrazovkách, budou jednoduché a lehce srozumitelné jak pro turisty, tak i pro obyvatele Prahy.
+
+## Info o projektu
 
 Projekt na platformě Android, který zobrazuje jednu danou stanici, a časy příjezdu tramvajových linek do stanice.
 
