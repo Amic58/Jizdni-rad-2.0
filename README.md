@@ -19,7 +19,7 @@ Pro spuštění je třeba Android Studio, do kterého se projekt importuje: File
 
 ## Důležité části projektu v rámci ročníkové práce
 
-Se nacházejí v Re-Stop/app/src/main
+Se nacházejí v ReStop/app/src/main
 
 ## TODO do budoucna
 
